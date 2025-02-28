@@ -13,7 +13,7 @@ import (
 	"fyne.io/fyne/v2/theme"
 	"fyne.io/fyne/v2/widget"
 
-	datepicker "github.com/sdassow/fyne-datepicker"
+	datepicker "github.com/tobbee/fyne-datepicker"
 )
 
 func main() {

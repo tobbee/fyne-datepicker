@@ -1,4 +1,4 @@
-module github.com/sdassow/fyne-datepicker
+module github.com/tobbee/fyne-datepicker
 
 go 1.19
 
